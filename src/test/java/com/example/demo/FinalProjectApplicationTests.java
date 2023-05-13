@@ -10,4 +10,8 @@ class FinalProjectApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void Hello() {
+
+	}
 }
