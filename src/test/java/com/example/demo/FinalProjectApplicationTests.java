@@ -12,6 +12,6 @@ class FinalProjectApplicationTests {
 
 	@Test
 	void Hello() {
-
+		System.out.println("안녕");
 	}
 }
